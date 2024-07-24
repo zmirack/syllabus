@@ -5,7 +5,7 @@
 **Introduction to DevOps**
 
 
-    Introduction to SDLC
+            Introduction to SDLC
     Waterfall Model
     Advantages of Waterfall Model
     Dis-Advantages of Waterfall Model
